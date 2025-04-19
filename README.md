@@ -56,6 +56,7 @@ Usage
     *   `https://instagram.com/john-doe`
         
 4.  **Run the script**
+
     '''bash
     python main.py
      
