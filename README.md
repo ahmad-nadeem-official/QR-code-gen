@@ -58,7 +58,7 @@ Usage
 4.  **Run the script**
     '''bash
     python main.py
-    ''' 
+     
 Output: Saves `ahmad.png` (default name) and displays the QR code.
     
 
