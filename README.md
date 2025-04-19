@@ -56,16 +56,10 @@ Usage
     *   `https://instagram.com/john-doe`
         
 4.  **Run the script**
-    
-    sh
-    
-    Copy
-    
-    Download
-    
+    '''bash
     python main.py
-    
-    Output: Saves `ahmad.png` (default name) and displays the QR code.
+    ''' 
+Output: Saves `ahmad.png` (default name) and displays the QR code.
     
 
 Customization
